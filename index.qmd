@@ -1,5 +1,5 @@
 ---
-title: "Ceren Filiz Eser"
+title: "Ceren F. Eser"
 about:
   template: trestles
   image: profile.jpg
@@ -19,4 +19,4 @@ about:
 
 I am a PhD student in the Department of Political Science at the University of California San Diego.
 
-I study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. Methodologically, I use causal inference for observational data, experimental methods, LLM-based archival data extraction, and geospatial analysis.
+I study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. Methodologically, I use causal inference for observational data, experimental methods, LLM-based archival data extraction, and geospatial analysis. I am also developing a specialization in formal theory.
