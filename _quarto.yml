@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - cv.pdf
+    - CNAME
 
 website:
   title: "Ceren F. Eser"
@@ -10,6 +13,8 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
 
 format:
   html:

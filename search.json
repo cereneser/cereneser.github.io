@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Ceren F. Eser",
     "section": "",
-    "text": "I am a PhD student in the Department of Political Science at the University of California San Diego.\nI study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. Methodologically, I use causal inference for observational data, experimental methods, LLM-based archival data extraction, and geospatial analysis. I am also developing a specialization in formal theory."
+    "text": "I am a PhD student in the Department of Political Science at the University of California San Diego.\nI study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. My empirical work centers on causal inference, combining quasi-experimental designs for observational data, experimental methods, and geospatial analysis, alongside LLM-based archival data extraction. I am also developing a specialization in formal theory."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ceren F. Eser",
+    "section": "Education",
+    "text": "Education\nPh.D., Political Science, University of California, San Diego, 2025–present\nM.A., Political Science and International Relations, Boğaziçi University, 2024\nB.A., Economics, and B.A., Political Science and International Relations, Boğaziçi University, 2020"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ceren F. Eser",
+    "section": "Contact",
+    "text": "Contact\nceeser@ucsd.edu\nDepartment of Political Science, University of California, San Diego"
   },
   {
     "objectID": "research.html",
@@ -32,6 +46,27 @@
     "href": "research.html#work-in-progress",
     "title": "Research",
     "section": "Work in Progress",
-    "text": "Work in Progress\nAn empire-wide digitization of Ottoman provincial yearbooks (salnames)."
+    "text": "Work in Progress\nAn empire-wide digitization of Ottoman provincial yearbooks that uses large language models to transcribe and structure district-level administrative records from the Ottoman Turkish originals, building a panel of late Ottoman state capacity to trace the origins of divergence among the empire’s successor states."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant\nPOLI 112A: Economic Theories of Political Behavior, Winter 2026\nPOLI 140D: International Human Rights Law: Migrant Populations, Spring 2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-california-san-diego",
+    "href": "teaching.html#university-of-california-san-diego",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant\nPOLI 112A: Economic Theories of Political Behavior, Winter 2026\nPOLI 140D: International Human Rights Law: Migrant Populations, Spring 2026"
+  },
+  {
+    "objectID": "teaching.html#boğaziçi-university",
+    "href": "teaching.html#boğaziçi-university",
+    "title": "Teaching",
+    "section": "Boğaziçi University",
+    "text": "Boğaziçi University\nGraduate Teaching Assistant, 2023–2025\nPolitics and Decision Theory; Political Science Research Methods; Quantitative Methods I and II (graduate); Advanced Research Methods (graduate); Social Statistics; Comparative State and Bureaucracy; International Political Economy; Comparative Politics; Political Behavior; Introduction to Turkish Politics; Introduction to International Relations; Game Theory and International Relations\nUndergraduate Teaching Assistant, 2017–2020\nIntroduction to Programming (Computer Engineering); Introduction to Political Science"
   }
 ]
