@@ -19,6 +19,7 @@ $font-size-root: 17px;
 
 /*-- scss:rules --*/
 
+html { scroll-behavior: smooth; }
 body { line-height: 1.6; }
 
 /* navbar: quiet, white, hairline under */

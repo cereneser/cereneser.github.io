@@ -12,9 +12,9 @@ website:
       - text: Home
         href: index.qmd
       - text: Research
-        href: research.qmd
+        href: index.html#research
       - text: Teaching
-        href: teaching.qmd
+        href: index.html#teaching
       - text: CV
         href: cv.pdf
 
