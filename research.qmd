@@ -6,7 +6,7 @@ title: "Research"
 
 ::: {.paper}
 **Distributive Politics in Opposition: Electoral Targeting of Social Assistance in Istanbul**\
-Forthcoming, *European Journal of Political Economy*.
+*European Journal of Political Economy*, 2026.
 
 <details>
 <summary>Abstract</summary>
