@@ -1,0 +1,75 @@
+---
+title: "Ceren F. Eser"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:ceeser@ucsd.edu"
+    - icon: file-earmark-text
+      text: CV
+      href: cv.pdf
+    - icon: google
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=rYmWV2EAAAAJ"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0001-7850-686X"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/cereneser"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/ceren-filiz-eser-454934a8"
+---
+
+I am a PhD student in the Department of Political Science at the University of California San Diego.
+
+I study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. My empirical work centers on causal inference, combining quasi-experimental designs for observational data, experimental methods, and geospatial analysis, alongside LLM-based archival data extraction. I am also developing a specialization in formal theory.
+
+## Research
+
+::: {.paper}
+**Distributive Politics in Opposition: Electoral Targeting of Social Assistance in Istanbul**\
+*European Journal of Political Economy*, 2026.
+
+<details>
+<summary>Abstract</summary>
+<p>Research on distributive politics overwhelmingly examines actors who control the state apparatus. Far less is known about how opposition parties governing at the subnational level allocate resources under their direct control. I study Istanbul, where the main opposition Republican People's Party (CHP) won the mayoralty in 2019 after twenty-five years of Justice and Development Party (AKP) dominance and expanded the municipality's means-tested cash assistance program, the <em>Social Support Istanbulkart</em>, from roughly 176,000 to 224,000 recipient households. Using neighborhood-level data on aid distribution, electoral outcomes, and socioeconomic indicators, I find that allocation follows an inverted U in CHP vote share, peaking in electorally marginal neighborhoods and declining in both parties' strongholds. The pattern replicates within a contiguous border-pair design and is strongest where need-based explanations are weakest. The targeting was followed by modest gains: a one-standard-deviation rise in aid recipients per resident is associated with a 0.36 percentage-point increase in opposition vote share in the 2023 presidential election, in a city whose annulled March 2019 mayoral race was decided by 0.16 percentage points. Electoral targeting in distributive allocation is thus not confined to national incumbents: an opposition party that lacks the machinery of contingent exchange can pursue it instead through the geographic calibration of a programmatic instrument.</p>
+</details>
+:::
+
+::: {.paper}
+**Governing to Win: The Electoral Returns to Opposition Service Provision under Authoritarianism**\
+Working paper.
+
+Using geospatial data on Istanbul's subsidized municipal restaurants (*Kent Lokantası*) and a quasi-experimental design, I show that, in a competitive authoritarian regime, an opposition party that governs a major metropolitan municipality can convert programmatic service provision into electoral support.
+:::
+
+::: {.paper}
+*Work in progress.* An empire-wide digitization of Ottoman provincial yearbooks that uses large language models to transcribe and structure district-level administrative records from the Ottoman Turkish originals, building a panel of late Ottoman state capacity to trace the origins of divergence among the empire's successor states.
+:::
+
+## Education
+
+Ph.D., Political Science, University of California, San Diego (in progress)\
+M.A., Political Science, Boğaziçi University\
+B.A., Economics, Boğaziçi University\
+B.A., Political Science, Boğaziçi University
+
+## Teaching
+
+**University of California, San Diego**\
+Teaching Assistant\
+POLI 112A: Economic Theories of Political Behavior, Winter 2026\
+POLI 140D: International Human Rights Law: Migrant Populations, Spring 2026
+
+**Boğaziçi University**\
+Teaching Assistant\
+Politics and Decision Theory; Research Methods; Social Statistics; Comparative State and Bureaucracy; International Political Economy; Comparative Politics; Political Behavior; Game Theory and International Relations; Introduction to Programming (Computer Engineering)
+
+## Contact
+
+[ceeser@ucsd.edu](mailto:ceeser@ucsd.edu)\
+Department of Political Science, University of California, San Diego
