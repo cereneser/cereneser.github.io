@@ -1,0 +1,41 @@
+---
+title: "Ceren F. Eser"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:ceeser@ucsd.edu"
+    - icon: file-earmark-text
+      text: CV
+      href: cv.pdf
+    - icon: google
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=rYmWV2EAAAAJ"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0001-7850-686X"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/cereneser"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/ceren-filiz-eser-454934a8"
+---
+
+I am a PhD student in the Department of Political Science at the University of California San Diego.
+
+I study comparative politics and the political economy of development, with a regional focus on Turkey, MENA, and Southeastern Europe. My current research examines how governments build electoral support through distributive programs, including social assistance, subsidized public services, and credit. I also work on the historical political economy of state building in the late Ottoman Empire. My empirical work centers on causal inference, combining quasi-experimental designs for observational data, experimental methods, and geospatial analysis, alongside LLM-based archival data extraction. I am also developing a specialization in formal theory.
+
+## Education
+
+Ph.D., Political Science, University of California, San Diego, 2025–present\
+M.A., Political Science and International Relations, Boğaziçi University, 2024\
+B.A., Economics, Boğaziçi University, 2020\
+B.A., Political Science and International Relations, Boğaziçi University, 2020
+
+## Contact
+
+[ceeser@ucsd.edu](mailto:ceeser@ucsd.edu)\
+Department of Political Science, University of California, San Diego
